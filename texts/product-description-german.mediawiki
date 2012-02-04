@@ -39,11 +39,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/hdb/">Demo f&uuml;r Hyperspace Delivery Boy</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/hdb/">Demo f&uuml;r Hyperspace Delivery Boy</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/hdb/">Updates f&uuml;r Hyperspace Delivery Boy</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/hdb/">Updates f&uuml;r Hyperspace Delivery Boy</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
