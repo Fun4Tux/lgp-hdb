@@ -1,0 +1,91 @@
+==Preview==
+<p>You are Guy Carrington, fresh on the job as a courier for the Hyperspace Delivery Service.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>You are Guy Carrington, fresh on the job as a courier for the Hyperspace Delivery Service.</p>
+<p>Your job: get mail and packages to those that need them, no matter where in space they are!</p>
+<p>You may face insane robots, dangerous environments, or even the dreaded Sleeping Behemoths on your quest to deliver the universe`s most important parcels! Explore bizarre worlds and defend yourself against alien creatures as you solve the devious puzzles of... Hyperspace Delivery Boy!</p>
+<ul>
+<li>Journey through thirty amazing levels!</li>
+<li>Choose puzzle or action-puzzle modes! </li>
+<li>Revel in three amazing, completely different environments! </li>
+<li>Find hidden bonus items! </li>
+<li>Escape from the Crazy Panic Zones!</li>
+</ul>
+<p></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br/></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/hdb/">Demo for Hyperspace Delivery Boy</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/hdb/">Updates for Hyperspace Delivery Boy</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom in a DVD box(no packaging foil)</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>200 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 4 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>32 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>70 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>

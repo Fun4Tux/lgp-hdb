@@ -1,0 +1,94 @@
+==Preview==
+<p>Dein Auftrag: Bringe Briefe und Pakete zu denen, die diese ben&ouml;tigen. Egal wo auch immer im Universum das Ziel ist!</p>
+
+==Text==
+<p><strong><strong><strong><strong>Das Spiel</strong></strong></strong></strong></p>
+<p>Du bist<strong><strong><strong><strong>&nbsp;</strong></strong></strong></strong>Carrington und seit kurzem hast du einen Job als Bote f&uuml;r den&nbsp;Hyperspace Delivery Service.</p>
+<p>Dein Auftrag: Bringe Briefe und Pakete zu denen, die diese ben&ouml;tigen. Egal wo auch immer im Universum das Ziel ist!</p>
+<p>Du wirst verr&uuml;ckte Roboter in gef&auml;hrlichen Umgebungen oder gar die gef&uuml;rchteten, schlafenden Behemoths treffen bei deinem Autrag, die wichtigsten Flecken im Universum zu beliefern! Erkunde bizarre Welten und verteidige dich gegen Aliens w&auml;rend du die verzwickten R&auml;tsel l&ouml;st, die R&auml;tsel von.... Hyperspace Delivery Boy!</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Erkunde 30 aufregende Levels!</li>
+<li>Spiele das Spiel im Puzzle oder Action-Puzzle Modus!</li>
+<li>Tobe dich in den 30 komplett unterschiedlichen Levels aus!</li>
+<li>Finde die versteckten Bonusgegenst&auml;nde!</li>
+<li>Fliehe aus den verr&uuml;ckten Panic Zones!</li>
+</ul>
+<ul>
+</ul>
+<p></p>
+<hr />
+<p><strong><strong><strong><strong>Allgemeine Informationen zum Spiel</strong></strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/hdb/">Demo f&uuml;r Hyperspace Delivery Boy</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/hdb/">Updates f&uuml;r Hyperspace Delivery Boy</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD-Rom und Anleitung in DVD-H&uuml;lle (ohne Folie)<br /></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong><strong><strong>Minimale Systemanforderungen</strong></strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>200 MHz x86 Prozessor<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 4 MB Ram<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>32 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>70 MB</td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
